@@ -1,0 +1,60 @@
+body {
+    background-color: aquamarine;
+}
+
+#top
+{
+    color:darkorange;
+    font-size: 400%;
+}
+
+.pb
+{
+    height:150px;
+    width:150px;
+    font-size:20px;
+    font-weight: bold;
+    background-color:darkorange;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.pp
+{
+    height:100px;
+    width:150px;
+    font-size:20px;
+    font-weight: bold;
+    background-color:darkorange;
+}
+
+.section {
+    position: fixed;
+    bottom:-20px;
+    left:-60px;
+    background-color: grey;
+    width:110%;
+    
+    
+}
+
+#image1
+{
+    height:25%;
+    width:50%;
+}
+
+#tt
+{
+    font-weight: bold;
+    font-size: 250%;
+}
+#th
+{
+    font-size: 150%;
+}
+#ht 
+{
+    font-size: 135%;
+}
+
